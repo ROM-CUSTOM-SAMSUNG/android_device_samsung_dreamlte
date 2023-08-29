@@ -40,3 +40,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="dreamltexx-user 8.0.0 R16NW G950FXXU1CRC7 release-keys"
 
 BUILD_FINGERPRINT := "google/raven/raven:12/S3B1.220218.006/8325196:user/release-keys"
+
+# ADB_ROOT
+WITH_SU := true
